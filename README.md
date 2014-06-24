@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-This is my first repository using GitHub
+My first repository on GitHub 
+I love coffee, pizza, and dancing!
